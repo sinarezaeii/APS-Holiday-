@@ -1,0 +1,31 @@
+body {
+  background: rgb(96, 180, 180);
+}
+.fill {
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/a/ad/Lucifer_main_poster.jpg");
+  background-size: cover;
+  position: relative;
+  height: 150px;
+  width: 150px;
+  top: 5px;
+  left: 5px;
+  cursor: pointer;
+}
+.empty {
+  display: inline-block;
+  height: 160px;
+  width: 160px;
+  margin: 10px;
+  border: 3px rgb(2, 155, 155) solid;
+  background-color: rgb(238, 234, 234);
+}
+.hold {
+  border: solid #ccc 4px;
+}
+.hovered {
+  background: #f4f4f4;
+  border-style: dashed;
+}
+.invisible {
+  display: none;
+}
