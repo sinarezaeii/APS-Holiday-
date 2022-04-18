@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "welcome to blog",
+      "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perspiciatis dolore minima error at ducimus quos autem libero velit aspernatur vitae maxime, iusto nostrum voluptatum, accusantium est. Doloremque excepturi, repellat soluta tempora quasi corporis placeat omnis, adipisci obcaecati, non dolorem quam est quis inventore possimus totam iste minima voluptate natus. Possimus placeat id tempora consequatur tenetur soluta beatae necessitatibus aperiam aliquam porro, libero, laboriosam reiciendis expedita modi architecto ipsum quas ab. Quis est at delectus exercitationem itaque, corrupti perspiciatis, eaque nam omnis vero vel distinctio reprehenderit, expedita atque asperiores mollitia quisquam pariatur reiciendis. Quo similique officiis, at vitae animi voluptatem iste?",
+      "likes": 31
+    },
+    { 
+      "id": 2,
+      "title": "hello world",
+      "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perspiciatis dolore minima error at ducimus quos autem libero velit aspernatur vitae maxime, iusto nostrum voluptatum, accusantium est. Doloremque excepturi, repellat soluta tempora quasi corporis placeat omnis, adipisci obcaecati, non dolorem quam est quis inventore possimus totam iste minima voluptate natus. Possimus placeat id tempora consequatur tenetur soluta beatae necessitatibus aperiam aliquam porro, libero, laboriosam reiciendis expedita modi architecto ipsum quas ab. Quis est at delectus exercitationem itaque, corrupti perspiciatis, eaque nam omnis vero vel distinctio reprehenderit, expedita atque asperiores mollitia quisquam pariatur reiciendis. Quo similique officiis, at vitae animi voluptatem iste?",
+      "likes": 20
+    },
+    {
+      "id": 3,
+      "title": "hello aps",
+      "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perspiciatis dolore minima error at ducimus quos autem libero velit aspernatur vitae maxime, iusto nostrum voluptatum, accusantium est. Doloremque excepturi, repellat soluta tempora quasi corporis placeat omnis, adipisci obcaecati, non dolorem quam est quis inventore possimus totam iste minima voluptate natus. Possimus placeat id tempora consequatur tenetur soluta beatae necessitatibus aperiam aliquam porro, libero, laboriosam reiciendis expedita modi architecto ipsum quas ab. Quis est at delectus exercitationem itaque, corrupti perspiciatis, eaque nam omnis vero vel distinctio reprehenderit, expedita atque asperiores mollitia quisquam pariatur reiciendis. Quo similique officiis, at vitae animi voluptatem iste?",
+      "likes": 25
+    }
+  ]
+}
